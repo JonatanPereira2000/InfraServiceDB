@@ -1,4 +1,4 @@
-#📦 InfraServiceDB - Estrutura do Banco de Dados
+📦 InfraServiceDB - Estrutura do Banco de Dados
 
 📘 Visão Geral
 
